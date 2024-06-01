@@ -1,15 +1,33 @@
 {
   "vaultName": "Riccardo Obsidian Vault",
-  "lastExport": 1717191652652,
+  "lastExport": 1717243462345,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars show-inline-title minimal-default-dark minimal-default-light colorful-headings colorful-active links-int-on links-ext-on full-width-media full-file-names minimal-readable-off theme-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "EXTRA/Allegati/MASSAGGIO/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg",
+    "EXTRA/Allegati/MASSAGGIO/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/34d5f39529963d02288ef6650d287e4c_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/88f7004304f15f35ca775a231e4637d8_MD5.png",
+    "EXTRA/Allegati/MASSAGGIO/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/999ce45da8111faf0f293ca5c8558726_MD5.png",
+    "EXTRA/Allegati/MASSAGGIO/cf510f7217141f9ba000175c7a7eee45_MD5.png",
+    "EXTRA/Allegati/MASSAGGIO/d0fb92def88acf70b63d920d71fb04f1_MD5.png",
+    "EXTRA/Allegati/MASSAGGIO/da335a80c7e111f3220e9b164f19433d_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/ed91250b51a12b297a518eb92e22d788_MD5.avif",
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001150.png",
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001547.png",
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526002521.png",
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225447.png",
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225504.png",
     "EXTRA/Allegati/MCB/AnatMuscSchel20240316.mp3",
     "EXTRA/Allegati/MCB/AnatMuscSchel20240316_2.mp3",
     "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.png",
     "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf",
+    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE 2 MEGGHY.pdf",
     "EXTRA/Allegati/MCB/ANATPALP20240314.mp3",
     "EXTRA/Allegati/MCB/ANATPALP20240516_1.mp3",
     "EXTRA/Allegati/MCB/ANATPALP20240516_2.mp3",
@@ -51,10 +69,123 @@
     "EXTRA/Allegati/MCB/ValutPost20240316.mp3",
     "EXTRA/Allegati/MCB/Zucchini 20240314.mp3",
     "EXTRA/Allegati/MCB/Zucchini20240314.mp3",
+    "EXTRA/Allegati/Anonimo_Campi_morfici.pdf",
+    "EXTRA/Allegati/Articolazione-Sterno-clavicolare.pdf",
+    "EXTRA/Allegati/Pasted image 20230209232532.png",
+    "EXTRA/Allegati/Pasted image 20240520102119.png",
+    "EXTRA/Allegati/Pasted image 20240520102222.png",
+    "EXTRA/Allegati/Pasted image 20240520102300.png",
+    "EXTRA/Allegati/Pasted image 20240520205410.png",
+    "EXTRA/Allegati/Pasted image 20240521205924.png",
+    "EXTRA/Allegati/piedi.mp3",
+    "EXTRA/Allegati/Recording 20230228162715.webm",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Dentato anteriore.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Dentato posteriore superiore.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Elevatore della scapola.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Gran dentato.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Gran Dorsale.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Grande romboide.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscoli del torace.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscoli della repirazione.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscolo Platisma.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Piriforme.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Romboide.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Spinoappendicolari.md",
+    "MASSAGGIO E ANNESSI/MUSCOLI/Trapezio.md",
+    "MASSAGGIO E ANNESSI/ORGANI/Cuore.md",
+    "MASSAGGIO E ANNESSI/OSSA/Clavicola.md",
+    "MASSAGGIO E ANNESSI/OSSA/Colonna vertebrale.md",
+    "MASSAGGIO E ANNESSI/OSSA/Osso Ioide.md",
+    "MASSAGGIO E ANNESSI/OSSA/Rachide.md",
+    "MASSAGGIO E ANNESSI/OSSA/Scapola.md",
+    "MASSAGGIO E ANNESSI/OSSA/Sterno.md",
+    "MASSAGGIO E ANNESSI/Acido Ialuronico.md",
+    "MASSAGGIO E ANNESSI/Allergie.md",
+    "MASSAGGIO E ANNESSI/angolo di Louis.md",
+    "MASSAGGIO E ANNESSI/Aponeurosi.md",
+    "MASSAGGIO E ANNESSI/Apparecchiature Diagnostica.md",
+    "MASSAGGIO E ANNESSI/Aprassia.md",
+    "MASSAGGIO E ANNESSI/Articolazione Sterno Clavicolare.md",
+    "MASSAGGIO E ANNESSI/Artralgia.md",
+    "MASSAGGIO E ANNESSI/Artrite.md",
+    "MASSAGGIO E ANNESSI/Artrosi.md",
+    "MASSAGGIO E ANNESSI/Biorisonanza Apparecchiature.md",
+    "MASSAGGIO E ANNESSI/Chinesiterapia.md",
+    "MASSAGGIO E ANNESSI/Cingolo Scapolare.md",
+    "MASSAGGIO E ANNESSI/Disprassia.md",
+    "MASSAGGIO E ANNESSI/Dolori dopo il massaggio.md",
+    "MASSAGGIO E ANNESSI/Fascia.md",
+    "MASSAGGIO E ANNESSI/Fascite Plantare.md",
+    "MASSAGGIO E ANNESSI/Fattore Reumatoide.md",
+    "MASSAGGIO E ANNESSI/Fibroblasti.md",
+    "MASSAGGIO E ANNESSI/Fisiatra.md",
+    "MASSAGGIO E ANNESSI/Fratture Ossee.md",
+    "MASSAGGIO E ANNESSI/Ginocchio.md",
+    "MASSAGGIO E ANNESSI/Gotta.md",
+    "MASSAGGIO E ANNESSI/GRASSO ADDOMINALE.md",
+    "MASSAGGIO E ANNESSI/Infiammazione.md",
+    "MASSAGGIO E ANNESSI/Infiammazione del Nervo Sciatico.md",
+    "MASSAGGIO E ANNESSI/Inulina.md",
+    "MASSAGGIO E ANNESSI/Istamina.md",
+    "MASSAGGIO E ANNESSI/Lisosomi.md",
+    "MASSAGGIO E ANNESSI/Massaggio Decontratturante.md",
+    "MASSAGGIO E ANNESSI/Massoterapia.md",
+    "MASSAGGIO E ANNESSI/Mesoderma.md",
+    "MASSAGGIO E ANNESSI/Metodo Stecco.md",
+    "MASSAGGIO E ANNESSI/Morbo di Alzheimer.md",
+    "MASSAGGIO E ANNESSI/Morbo di De Quervain.md",
+    "MASSAGGIO E ANNESSI/Morbo di Dupuytren.md",
+    "MASSAGGIO E ANNESSI/Mucopolisaccaride.md",
+    "MASSAGGIO E ANNESSI/Muscoli erettori spinali.md",
+    "MASSAGGIO E ANNESSI/Nocicettore.md",
+    "MASSAGGIO E ANNESSI/Osteopatia e fisioterapia - qual è la differenza?.md",
+    "MASSAGGIO E ANNESSI/Palato molle.md",
+    "MASSAGGIO E ANNESSI/Pendolo di Codman.md",
+    "MASSAGGIO E ANNESSI/Perineo.md",
+    "MASSAGGIO E ANNESSI/Plesso Cervicale.md",
+    "MASSAGGIO E ANNESSI/reticolo endoplasmatico.md",
+    "MASSAGGIO E ANNESSI/Rieducazione Metodo di Mèzières.md",
+    "MASSAGGIO E ANNESSI/Rieducazione posturale globale.md",
+    "MASSAGGIO E ANNESSI/Sarcopenia.md",
+    "MASSAGGIO E ANNESSI/SCIATICA (SCIATALGIA).md",
+    "MASSAGGIO E ANNESSI/Sindrome del Piriforme.md",
+    "MASSAGGIO E ANNESSI/Sostanza amorfa.md",
+    "MASSAGGIO E ANNESSI/Sostanza fondamentale.md",
+    "MASSAGGIO E ANNESSI/Spalla.md",
+    "MASSAGGIO E ANNESSI/Tecniche e benefici dei massaggi ai piedi.md",
+    "MASSAGGIO E ANNESSI/Tendinopatia.md",
+    "MASSAGGIO E ANNESSI/Tunnel carpale.md",
+    "MASSAGGIO E ANNESSI/Valgismo.md",
+    "MASSAGGIO E ANNESSI/Varismo.md",
+    "MASSAGGIO E ANNESSI/VES.md",
     "MCB/Anatomia Palpatoria Funzionale Miofasciale.md",
+    "MCB/Anatomia Palpatoria Megghy.md",
     "MCB/Massaggio Riflesso Plantare.md",
     "MCB/Massaggio Svedese.md",
     "MCB/xmind-Anatomia Palpatoria Funzionale Miofasciale.md",
+    "MSTR/Caso Studio 1.md",
+    "MSTR/Caso Studio 2.md",
+    "MSTR/Caso Studio 3.md",
+    "MSTR/Linee Guida Casi Studi.md",
+    "MSTR/Test.md",
+    "lib/media/9eac2afc730d9371ad851ca4575b90e9_md5.jpg",
+    "lib/media/pasted-image-20240526001150.png",
+    "lib/media/pasted-image-20240526001547.png",
+    "lib/media/pasted-image-20240526002521.png",
+    "lib/media/34d5f39529963d02288ef6650d287e4c_md5.avif",
+    "lib/media/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
+    "lib/media/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
+    "lib/media/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
+    "lib/media/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
+    "lib/media/999ce45da8111faf0f293ca5c8558726_md5.png",
+    "lib/media/cf510f7217141f9ba000175c7a7eee45_md5.png",
+    "lib/media/88f7004304f15f35ca775a231e4637d8_md5.png",
+    "lib/media/d0fb92def88acf70b63d920d71fb04f1_md5.png",
+    "lib/media/pasted-image-20240520102119.png",
+    "lib/media/pasted-image-20240520102222.png",
+    "lib/media/pasted-image-20240520102300.png",
+    "lib/media/pasted-image-20240528221700.png",
+    "lib/media/pasted-image-20240526225504.png",
     "lib/media/anatpalp20240314.mp3",
     "lib/media/anatmuscschel20240316.mp3",
     "lib/media/anatmuscschel20240316_2.mp3",
@@ -84,11 +215,13 @@
     "lib/media/pasted-image-20240521210508.png",
     "lib/media/pasted-image-20240521211334.png",
     "lib/media/pasted-image-20240521211018.png",
+    "lib/media/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf",
     "lib/media/img_0120-1.jpeg",
     "lib/media/pasted-image-20240521213801.png",
     "lib/media/pasted-image-20240521213927.png",
     "lib/media/pasted-image-20240521214019.png",
     "lib/media/pasted-image-20240521214528.png",
+    "lib/media/pasted-image-20240522180539.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -199,63 +332,1372 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 66936,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 6624,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2984,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 209702,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 463,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1831,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 7367,
+      "exportedPath": "extra/allegati/massaggio/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14803,
+      "exportedPath": "extra/allegati/massaggio/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 243895,
+      "exportedPath": "extra/allegati/massaggio/9eac2afc730d9371ad851ca4575b90e9_md5.jpg",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 4273,
+      "exportedPath": "extra/allegati/massaggio/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/34d5f39529963d02288ef6650d287e4c_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5933,
+      "exportedPath": "extra/allegati/massaggio/34d5f39529963d02288ef6650d287e4c_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/88f7004304f15f35ca775a231e4637d8_MD5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 100846,
+      "exportedPath": "extra/allegati/massaggio/88f7004304f15f35ca775a231e4637d8_md5.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 8732,
+      "exportedPath": "extra/allegati/massaggio/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/999ce45da8111faf0f293ca5c8558726_MD5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 162259,
+      "exportedPath": "extra/allegati/massaggio/999ce45da8111faf0f293ca5c8558726_md5.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/cf510f7217141f9ba000175c7a7eee45_MD5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 96893,
+      "exportedPath": "extra/allegati/massaggio/cf510f7217141f9ba000175c7a7eee45_md5.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/d0fb92def88acf70b63d920d71fb04f1_MD5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 36249,
+      "exportedPath": "extra/allegati/massaggio/d0fb92def88acf70b63d920d71fb04f1_md5.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/da335a80c7e111f3220e9b164f19433d_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 53156,
+      "exportedPath": "extra/allegati/massaggio/da335a80c7e111f3220e9b164f19433d_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/ed91250b51a12b297a518eb92e22d788_MD5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 25789,
+      "exportedPath": "extra/allegati/massaggio/ed91250b51a12b297a518eb92e22d788_md5.avif",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001150.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 325149,
+      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526001150.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001547.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 733330,
+      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526001547.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526002521.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1012627,
+      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526002521.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225447.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 30296,
+      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526225447.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225504.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 150671,
+      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526225504.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Anonimo_Campi_morfici.pdf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 122866,
+      "exportedPath": "extra/allegati/anonimo_campi_morfici.pdf",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Articolazione-Sterno-clavicolare.pdf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 114895,
+      "exportedPath": "extra/allegati/articolazione-sterno-clavicolare.pdf",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20230209232532.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 814080,
+      "exportedPath": "extra/allegati/pasted-image-20230209232532.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20240520102119.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 71920,
+      "exportedPath": "extra/allegati/pasted-image-20240520102119.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20240520102222.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 184921,
+      "exportedPath": "extra/allegati/pasted-image-20240520102222.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20240520102300.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 80174,
+      "exportedPath": "extra/allegati/pasted-image-20240520102300.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20240520205410.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 126997,
+      "exportedPath": "extra/allegati/pasted-image-20240520205410.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Pasted image 20240521205924.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 216926,
+      "exportedPath": "extra/allegati/pasted-image-20240521205924.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Dentato anteriore.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 22,
+      "exportedPath": "massaggio-e-annessi/muscoli/dentato-anteriore.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Dentato posteriore superiore.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3447,
+      "exportedPath": "massaggio-e-annessi/muscoli/dentato-posteriore-superiore.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Elevatore della scapola.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3045,
+      "exportedPath": "massaggio-e-annessi/muscoli/elevatore-della-scapola.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Gran dentato.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3696,
+      "exportedPath": "massaggio-e-annessi/muscoli/gran-dentato.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Gran Dorsale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 24818,
+      "exportedPath": "massaggio-e-annessi/muscoli/gran-dorsale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Grande romboide.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2796,
+      "exportedPath": "massaggio-e-annessi/muscoli/grande-romboide.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscoli del torace.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2041,
+      "exportedPath": "massaggio-e-annessi/muscoli/muscoli-del-torace.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscoli della repirazione.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 44361,
+      "exportedPath": "massaggio-e-annessi/muscoli/muscoli-della-repirazione.html",
+      "dependencies": [
+        "lib/media/9eac2afc730d9371ad851ca4575b90e9_md5.jpg"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Muscolo Platisma.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1510,
+      "exportedPath": "massaggio-e-annessi/muscoli/muscolo-platisma.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240526001150.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Piriforme.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 17690,
+      "exportedPath": "massaggio-e-annessi/muscoli/piriforme.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Romboide.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2633,
+      "exportedPath": "massaggio-e-annessi/muscoli/romboide.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Spinoappendicolari.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 286,
+      "exportedPath": "massaggio-e-annessi/muscoli/spinoappendicolari.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/MUSCOLI/Trapezio.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 10950,
+      "exportedPath": "massaggio-e-annessi/muscoli/trapezio.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/ORGANI/Cuore.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 27778,
+      "exportedPath": "massaggio-e-annessi/organi/cuore.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240526001547.png",
+        "lib/media/pasted-image-20240526002521.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Clavicola.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 26099,
+      "exportedPath": "massaggio-e-annessi/ossa/clavicola.html",
+      "dependencies": [
+        "lib/media/34d5f39529963d02288ef6650d287e4c_md5.avif",
+        "lib/media/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
+        "lib/media/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
+        "lib/media/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
+        "lib/media/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
+        "lib/media/999ce45da8111faf0f293ca5c8558726_md5.png",
+        "lib/media/cf510f7217141f9ba000175c7a7eee45_md5.png",
+        "lib/media/88f7004304f15f35ca775a231e4637d8_md5.png",
+        "lib/media/d0fb92def88acf70b63d920d71fb04f1_md5.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Colonna vertebrale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 193,
+      "exportedPath": "massaggio-e-annessi/ossa/colonna-vertebrale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Osso Ioide.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 11320,
+      "exportedPath": "massaggio-e-annessi/ossa/osso-ioide.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Rachide.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1288,
+      "exportedPath": "massaggio-e-annessi/ossa/rachide.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Scapola.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 35556,
+      "exportedPath": "massaggio-e-annessi/ossa/scapola.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/OSSA/Sterno.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14599,
+      "exportedPath": "massaggio-e-annessi/ossa/sterno.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Acido Ialuronico.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3461,
+      "exportedPath": "massaggio-e-annessi/acido-ialuronico.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allergie.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2252,
+      "exportedPath": "massaggio-e-annessi/allergie.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/angolo di Louis.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2396,
+      "exportedPath": "massaggio-e-annessi/angolo-di-louis.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Aponeurosi.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 6374,
+      "exportedPath": "massaggio-e-annessi/aponeurosi.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Apparecchiature Diagnostica.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 65375,
+      "exportedPath": "massaggio-e-annessi/apparecchiature-diagnostica.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Aprassia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 12590,
+      "exportedPath": "massaggio-e-annessi/aprassia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Articolazione Sterno Clavicolare.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 31432,
+      "exportedPath": "massaggio-e-annessi/articolazione-sterno-clavicolare.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240520102119.png",
+        "lib/media/pasted-image-20240520102222.png",
+        "lib/media/pasted-image-20240520102300.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Artralgia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 22310,
+      "exportedPath": "massaggio-e-annessi/artralgia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Artrite.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5211,
+      "exportedPath": "massaggio-e-annessi/artrite.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Artrosi.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2856,
+      "exportedPath": "massaggio-e-annessi/artrosi.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Biorisonanza Apparecchiature.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 463,
+      "exportedPath": "massaggio-e-annessi/biorisonanza-apparecchiature.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Chinesiterapia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 15178,
+      "exportedPath": "massaggio-e-annessi/chinesiterapia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Cingolo Scapolare.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 12481,
+      "exportedPath": "massaggio-e-annessi/cingolo-scapolare.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Disprassia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 4850,
+      "exportedPath": "massaggio-e-annessi/disprassia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Dolori dopo il massaggio.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 8647,
+      "exportedPath": "massaggio-e-annessi/dolori-dopo-il-massaggio.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fascia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 213,
+      "exportedPath": "massaggio-e-annessi/fascia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fascite Plantare.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 752,
+      "exportedPath": "massaggio-e-annessi/fascite-plantare.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fattore Reumatoide.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3375,
+      "exportedPath": "massaggio-e-annessi/fattore-reumatoide.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fibroblasti.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5841,
+      "exportedPath": "massaggio-e-annessi/fibroblasti.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fisiatra.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 31529,
+      "exportedPath": "massaggio-e-annessi/fisiatra.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Fratture Ossee.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 7797,
+      "exportedPath": "massaggio-e-annessi/fratture-ossee.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Ginocchio.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 38328,
+      "exportedPath": "massaggio-e-annessi/ginocchio.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Gotta.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 18857,
+      "exportedPath": "massaggio-e-annessi/gotta.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/GRASSO ADDOMINALE.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 794,
+      "exportedPath": "massaggio-e-annessi/grasso-addominale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Infiammazione.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 20281,
+      "exportedPath": "massaggio-e-annessi/infiammazione.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Infiammazione del Nervo Sciatico.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 26227,
+      "exportedPath": "massaggio-e-annessi/infiammazione-del-nervo-sciatico.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Inulina.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 10621,
+      "exportedPath": "massaggio-e-annessi/inulina.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Istamina.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14062,
+      "exportedPath": "massaggio-e-annessi/istamina.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Lisosomi.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3737,
+      "exportedPath": "massaggio-e-annessi/lisosomi.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Massaggio Decontratturante.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 10553,
+      "exportedPath": "massaggio-e-annessi/massaggio-decontratturante.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Massoterapia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 15931,
+      "exportedPath": "massaggio-e-annessi/massoterapia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Mesoderma.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2015,
+      "exportedPath": "massaggio-e-annessi/mesoderma.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Metodo Stecco.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1057,
+      "exportedPath": "massaggio-e-annessi/metodo-stecco.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Morbo di Alzheimer.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 25580,
+      "exportedPath": "massaggio-e-annessi/morbo-di-alzheimer.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Morbo di De Quervain.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5445,
+      "exportedPath": "massaggio-e-annessi/morbo-di-de-quervain.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Morbo di Dupuytren.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5826,
+      "exportedPath": "massaggio-e-annessi/morbo-di-dupuytren.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Mucopolisaccaride.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1612,
+      "exportedPath": "massaggio-e-annessi/mucopolisaccaride.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Muscoli erettori spinali.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2301,
+      "exportedPath": "massaggio-e-annessi/muscoli-erettori-spinali.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240528221700.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Nocicettore.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1474,
+      "exportedPath": "massaggio-e-annessi/nocicettore.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240526225504.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Osteopatia e fisioterapia - qual è la differenza?.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 12986,
+      "exportedPath": "massaggio-e-annessi/osteopatia-e-fisioterapia-qual-è-la-differenza/osteopatia-e-fisioterapia-qual-è-la-differenza.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Palato molle.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1961,
+      "exportedPath": "massaggio-e-annessi/palato-molle.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Pendolo di Codman.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1640,
+      "exportedPath": "massaggio-e-annessi/pendolo-di-codman.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Perineo.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1836,
+      "exportedPath": "massaggio-e-annessi/perineo.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Plesso Cervicale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 7816,
+      "exportedPath": "massaggio-e-annessi/plesso-cervicale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/reticolo endoplasmatico.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 904,
+      "exportedPath": "massaggio-e-annessi/reticolo-endoplasmatico.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Rieducazione Metodo di Mèzières.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 20462,
+      "exportedPath": "massaggio-e-annessi/rieducazione-metodo-di-mèzières.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Rieducazione posturale globale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2917,
+      "exportedPath": "massaggio-e-annessi/rieducazione-posturale-globale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Sarcopenia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 26445,
+      "exportedPath": "massaggio-e-annessi/sarcopenia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/SCIATICA (SCIATALGIA).md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 31880,
+      "exportedPath": "massaggio-e-annessi/sciatica-(sciatalgia).html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Sindrome del Piriforme.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 20042,
+      "exportedPath": "massaggio-e-annessi/sindrome-del-piriforme.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Sostanza amorfa.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 31,
+      "exportedPath": "massaggio-e-annessi/sostanza-amorfa.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Sostanza fondamentale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1659,
+      "exportedPath": "massaggio-e-annessi/sostanza-fondamentale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Spalla.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 46551,
+      "exportedPath": "massaggio-e-annessi/spalla.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Tecniche e benefici dei massaggi ai piedi.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 8622,
+      "exportedPath": "massaggio-e-annessi/tecniche-e-benefici-dei-massaggi-ai-piedi.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Tendinopatia.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 28202,
+      "exportedPath": "massaggio-e-annessi/tendinopatia.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Tunnel carpale.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 10816,
+      "exportedPath": "massaggio-e-annessi/tunnel-carpale.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Valgismo.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 24421,
+      "exportedPath": "massaggio-e-annessi/valgismo.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Varismo.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 22165,
+      "exportedPath": "massaggio-e-annessi/varismo.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/VES.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1205,
+      "exportedPath": "massaggio-e-annessi/ves.html",
+      "dependencies": []
+    },
+    "lib/media/9eac2afc730d9371ad851ca4575b90e9_md5.jpg": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 243895,
+      "exportedPath": "lib/media/9eac2afc730d9371ad851ca4575b90e9_md5.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240526001150.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 325149,
+      "exportedPath": "lib/media/pasted-image-20240526001150.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240526001547.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 733330,
+      "exportedPath": "lib/media/pasted-image-20240526001547.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240526002521.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1012627,
+      "exportedPath": "lib/media/pasted-image-20240526002521.png",
+      "dependencies": []
+    },
+    "lib/media/34d5f39529963d02288ef6650d287e4c_md5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5933,
+      "exportedPath": "lib/media/34d5f39529963d02288ef6650d287e4c_md5.avif",
+      "dependencies": []
+    },
+    "lib/media/0bb262c5ced3fd88b5d983af6733a55f_md5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 7367,
+      "exportedPath": "lib/media/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
+      "dependencies": []
+    },
+    "lib/media/979b7532d2b63e10bb644bd9d3591a9c_md5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 8732,
+      "exportedPath": "lib/media/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
+      "dependencies": []
+    },
+    "lib/media/20d8ac0cf4079caeb48566ffe878f20c_md5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 4273,
+      "exportedPath": "lib/media/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
+      "dependencies": []
+    },
+    "lib/media/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 14803,
+      "exportedPath": "lib/media/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
+      "dependencies": []
+    },
+    "lib/media/999ce45da8111faf0f293ca5c8558726_md5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 162259,
+      "exportedPath": "lib/media/999ce45da8111faf0f293ca5c8558726_md5.png",
+      "dependencies": []
+    },
+    "lib/media/cf510f7217141f9ba000175c7a7eee45_md5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 96893,
+      "exportedPath": "lib/media/cf510f7217141f9ba000175c7a7eee45_md5.png",
+      "dependencies": []
+    },
+    "lib/media/88f7004304f15f35ca775a231e4637d8_md5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 100846,
+      "exportedPath": "lib/media/88f7004304f15f35ca775a231e4637d8_md5.png",
+      "dependencies": []
+    },
+    "lib/media/d0fb92def88acf70b63d920d71fb04f1_md5.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 36249,
+      "exportedPath": "lib/media/d0fb92def88acf70b63d920d71fb04f1_md5.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240520102119.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 71920,
+      "exportedPath": "lib/media/pasted-image-20240520102119.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240520102222.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 184921,
+      "exportedPath": "lib/media/pasted-image-20240520102222.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240520102300.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 80174,
+      "exportedPath": "lib/media/pasted-image-20240520102300.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240528221700.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 353661,
+      "exportedPath": "lib/media/pasted-image-20240528221700.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240526225504.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 150671,
+      "exportedPath": "lib/media/pasted-image-20240526225504.png",
+      "dependencies": []
+    },
     "EXTRA/Allegati/MCB/AnatMuscSchel20240316.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 31601568,
       "exportedPath": "extra/allegati/mcb/anatmuscschel20240316.mp3",
       "dependencies": []
     },
     "EXTRA/Allegati/MCB/AnatMuscSchel20240316_2.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 8920416,
       "exportedPath": "extra/allegati/mcb/anatmuscschel20240316_2.mp3",
       "dependencies": []
     },
+    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 959170,
+      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 554315,
+      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.pdf",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE 2 MEGGHY.pdf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 11352017,
+      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf",
+      "dependencies": []
+    },
     "EXTRA/Allegati/MCB/ANATPALP20240314.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 43323998,
       "exportedPath": "extra/allegati/mcb/anatpalp20240314.mp3",
       "dependencies": []
     },
     "EXTRA/Allegati/MCB/ANATPALP20240516_1.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 24053401,
       "exportedPath": "extra/allegati/mcb/anatpalp20240516_1.mp3",
       "dependencies": []
     },
     "EXTRA/Allegati/MCB/ANATPALP20240516_2.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 14782489,
       "exportedPath": "extra/allegati/mcb/anatpalp20240516_2.mp3",
       "dependencies": []
     },
+    "EXTRA/Allegati/MCB/IMG_0120 1.jpeg": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 24219,
+      "exportedPath": "extra/allegati/mcb/img_0120-1.jpeg",
+      "dependencies": []
+    },
     "EXTRA/Allegati/MCB/MCB MRP.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 57844176,
       "exportedPath": "extra/allegati/mcb/mcb-mrp.mp3",
       "dependencies": []
     },
+    "EXTRA/Allegati/MCB/Pasted image 20240521210508.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 642561,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521210508.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521211018.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 864790,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211018.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521211334.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 651785,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211334.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521213801.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 569037,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213801.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521213927.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 328512,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213927.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521214019.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 448884,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214019.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240521214528.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 235146,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214528.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240522180539.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 2405033,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240522180539.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240525234857.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 400515,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240525234857.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240526205256.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 68080,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240526205256.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528202721.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1142619,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528202721.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528203859.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 486668,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528203859.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528204941.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 660201,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528204941.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528212231.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 278836,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528212231.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528213002.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 330942,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528213002.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528214454.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 538592,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214454.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528214457.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 538592,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214457.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528214922.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 414574,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214922.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528215618.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 731173,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215618.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528215932.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 295984,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215932.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528220101.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 284393,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220101.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528220447.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 377424,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220447.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528220924.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 267086,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220924.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528221044.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 209358,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221044.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528221339.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 501627,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221339.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528221700.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 353661,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221700.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528222454.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 1128242,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222454.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528222542.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 707979,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222542.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528222658.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 265445,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222658.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528223938.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 435560,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528223938.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528224630.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 666589,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528224630.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528225341.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 207918,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225341.png",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/MCB/Pasted image 20240528225403.png": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 885348,
+      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225403.png",
+      "dependencies": []
+    },
     "EXTRA/Allegati/MCB/ValutPost20240316.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 18218760,
       "exportedPath": "extra/allegati/mcb/valutpost20240316.mp3",
       "dependencies": []
     },
     "EXTRA/Allegati/MCB/Zucchini 20240314.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 43323998,
       "exportedPath": "extra/allegati/mcb/zucchini-20240314.mp3",
       "dependencies": []
     },
     "EXTRA/Allegati/MCB/Zucchini20240314.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 43323998,
       "exportedPath": "extra/allegati/mcb/zucchini20240314.mp3",
       "dependencies": []
     },
+    "EXTRA/Allegati/piedi.mp3": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 5469473,
+      "exportedPath": "extra/allegati/piedi.mp3",
+      "dependencies": []
+    },
+    "EXTRA/Allegati/Recording 20230228162715.webm": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 724995,
+      "exportedPath": "extra/allegati/recording-20230228162715.webm",
+      "dependencies": []
+    },
     "MCB/Anatomia Palpatoria Funzionale Miofasciale.md": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 28498,
+      "modifiedTime": 1717243462345,
+      "sourceSize": 28650,
       "exportedPath": "mcb/anatomia-palpatoria-funzionale-miofasciale.html",
       "dependencies": [
         "lib/media/anatpalp20240314.mp3",
@@ -290,8 +1732,16 @@
         "lib/media/pasted-image-20240521211018.png"
       ]
     },
+    "MCB/Anatomia Palpatoria Megghy.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 60,
+      "exportedPath": "mcb/anatomia-palpatoria-megghy.html",
+      "dependencies": [
+        "lib/media/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf"
+      ]
+    },
     "MCB/Massaggio Riflesso Plantare.md": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 8347,
       "exportedPath": "mcb/massaggio-riflesso-plantare.html",
       "dependencies": [
@@ -303,753 +1753,263 @@
       ]
     },
     "MCB/Massaggio Svedese.md": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 9512,
       "exportedPath": "mcb/massaggio-svedese.html",
       "dependencies": []
     },
     "MCB/xmind-Anatomia Palpatoria Funzionale Miofasciale.md": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 2031,
       "exportedPath": "mcb/xmind-anatomia-palpatoria-funzionale-miofasciale.html",
       "dependencies": []
     },
+    "MSTR/Caso Studio 1.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 890,
+      "exportedPath": "mstr/caso-studio-1.html",
+      "dependencies": []
+    },
+    "MSTR/Caso Studio 2.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 889,
+      "exportedPath": "mstr/caso-studio-2.html",
+      "dependencies": []
+    },
+    "MSTR/Caso Studio 3.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 889,
+      "exportedPath": "mstr/caso-studio-3.html",
+      "dependencies": []
+    },
+    "MSTR/Linee Guida Casi Studi.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 3199,
+      "exportedPath": "mstr/linee-guida-casi-studi.html",
+      "dependencies": []
+    },
+    "MSTR/Test.md": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 113,
+      "exportedPath": "mstr/test.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240522180539.png"
+      ]
+    },
     "lib/media/anatpalp20240314.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 43323998,
       "exportedPath": "lib/media/anatpalp20240314.mp3",
       "dependencies": []
     },
     "lib/media/anatmuscschel20240316.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 31601568,
       "exportedPath": "lib/media/anatmuscschel20240316.mp3",
       "dependencies": []
     },
     "lib/media/anatmuscschel20240316_2.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 8920416,
       "exportedPath": "lib/media/anatmuscschel20240316_2.mp3",
       "dependencies": []
     },
     "lib/media/valutpost20240316.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 18218760,
       "exportedPath": "lib/media/valutpost20240316.mp3",
       "dependencies": []
     },
     "lib/media/anatpalp20240516_1.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 24053401,
       "exportedPath": "lib/media/anatpalp20240516_1.mp3",
       "dependencies": []
     },
     "lib/media/anatpalp20240516_2.mp3": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 14782489,
       "exportedPath": "lib/media/anatpalp20240516_2.mp3",
       "dependencies": []
     },
     "lib/media/pasted-image-20240525234857.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 400515,
       "exportedPath": "lib/media/pasted-image-20240525234857.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240526205256.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 68080,
       "exportedPath": "lib/media/pasted-image-20240526205256.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528202721.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 1142619,
       "exportedPath": "lib/media/pasted-image-20240528202721.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528203859.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 486668,
       "exportedPath": "lib/media/pasted-image-20240528203859.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528204941.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 660201,
       "exportedPath": "lib/media/pasted-image-20240528204941.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528213002.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 330942,
       "exportedPath": "lib/media/pasted-image-20240528213002.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528214457.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 538592,
       "exportedPath": "lib/media/pasted-image-20240528214457.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528214922.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 414574,
       "exportedPath": "lib/media/pasted-image-20240528214922.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528215618.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 731173,
       "exportedPath": "lib/media/pasted-image-20240528215618.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528221339.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 501627,
       "exportedPath": "lib/media/pasted-image-20240528221339.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528215932.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 295984,
       "exportedPath": "lib/media/pasted-image-20240528215932.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528220447.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 377424,
       "exportedPath": "lib/media/pasted-image-20240528220447.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528220924.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 267086,
       "exportedPath": "lib/media/pasted-image-20240528220924.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528222542.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 707979,
       "exportedPath": "lib/media/pasted-image-20240528222542.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528222658.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 265445,
       "exportedPath": "lib/media/pasted-image-20240528222658.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528222454.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 1128242,
       "exportedPath": "lib/media/pasted-image-20240528222454.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528223938.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 435560,
       "exportedPath": "lib/media/pasted-image-20240528223938.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528224630.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 666589,
       "exportedPath": "lib/media/pasted-image-20240528224630.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528225403.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 885348,
       "exportedPath": "lib/media/pasted-image-20240528225403.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240528225341.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 207918,
       "exportedPath": "lib/media/pasted-image-20240528225341.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521210508.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 642561,
       "exportedPath": "lib/media/pasted-image-20240521210508.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521211334.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 651785,
       "exportedPath": "lib/media/pasted-image-20240521211334.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521211018.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 864790,
       "exportedPath": "lib/media/pasted-image-20240521211018.png",
       "dependencies": []
     },
+    "lib/media/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf": {
+      "modifiedTime": 1717243462345,
+      "sourceSize": 11352017,
+      "exportedPath": "lib/media/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf",
+      "dependencies": []
+    },
     "lib/media/img_0120-1.jpeg": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 24219,
       "exportedPath": "lib/media/img_0120-1.jpeg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521213801.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 569037,
       "exportedPath": "lib/media/pasted-image-20240521213801.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521213927.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 328512,
       "exportedPath": "lib/media/pasted-image-20240521213927.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521214019.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 448884,
       "exportedPath": "lib/media/pasted-image-20240521214019.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240521214528.png": {
-      "modifiedTime": 1717191652652,
+      "modifiedTime": 1717243462345,
       "sourceSize": 235146,
       "exportedPath": "lib/media/pasted-image-20240521214528.png",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 22461,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 582,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 157722,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 2984,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 209702,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 463,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 959170,
-      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 554315,
-      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.pdf",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/IMG_0120 1.jpeg": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 24219,
-      "exportedPath": "extra/allegati/mcb/img_0120-1.jpeg",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521210508.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 642561,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521210508.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521211018.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 864790,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211018.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521211334.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 651785,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211334.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521213801.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 569037,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213801.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521213927.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 328512,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213927.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521214019.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 448884,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214019.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521214528.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 235146,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214528.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240522180539.png": {
-      "modifiedTime": 1717191652652,
+    "lib/media/pasted-image-20240522180539.png": {
+      "modifiedTime": 1717243462345,
       "sourceSize": 2405033,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240522180539.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240525234857.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 400515,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240525234857.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240526205256.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 68080,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240526205256.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528202721.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1142619,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528202721.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528203859.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 486668,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528203859.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528204941.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 660201,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528204941.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528212231.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 278836,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528212231.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528213002.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 330942,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528213002.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214454.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 538592,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214454.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214457.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 538592,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214457.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214922.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 414574,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214922.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528215618.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 731173,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215618.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528215932.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 295984,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215932.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220101.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 284393,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220101.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220447.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 377424,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220447.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220924.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 267086,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220924.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221044.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 209358,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221044.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221339.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 501627,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221339.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221700.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 353661,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221700.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222454.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1128242,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222454.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222542.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 707979,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222542.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222658.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 265445,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222658.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528223938.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 435560,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528223938.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528224630.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 666589,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528224630.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528225341.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 207918,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225341.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528225403.png": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 885348,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225403.png",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1368,
-      "exportedPath": "lib/fonts/mathjax_zero.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 34160,
-      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 34464,
-      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 19360,
-      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 20832,
-      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 19776,
-      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 5792,
-      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 5464,
-      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 3244,
-      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 5148,
-      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 40808,
-      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 9600,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 9908,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 21480,
-      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 22340,
-      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 12660,
-      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 15944,
-      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 14628,
-      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 11852,
-      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 17604,
-      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1136,
-      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1116,
-      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1717191652652,
-      "sourceSize": 1753,
-      "exportedPath": "lib/styles/supported-plugins.css",
+      "exportedPath": "lib/media/pasted-image-20240522180539.png",
       "dependencies": []
     }
   }
