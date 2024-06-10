@@ -1,83 +1,27 @@
 {
   "vaultName": "Riccardo Obsidian Vault",
-  "lastExport": 1717440140886,
+  "lastExport": 1718018514451,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title minimal-default-dark minimal-default-light colorful-headings colorful-active links-int-on links-ext-on full-width-media full-file-names minimal-readable-off",
+  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon minimal-flexoki-dark minimal-default-light colorful-headings colorful-active links-int-on links-ext-on full-file-names minimal-readable-off",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "EXTRA/Allegati/MASSAGGIO/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg",
-    "EXTRA/Allegati/MASSAGGIO/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/34d5f39529963d02288ef6650d287e4c_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/88f7004304f15f35ca775a231e4637d8_MD5.png",
-    "EXTRA/Allegati/MASSAGGIO/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/999ce45da8111faf0f293ca5c8558726_MD5.png",
-    "EXTRA/Allegati/MASSAGGIO/cf510f7217141f9ba000175c7a7eee45_MD5.png",
-    "EXTRA/Allegati/MASSAGGIO/d0fb92def88acf70b63d920d71fb04f1_MD5.png",
-    "EXTRA/Allegati/MASSAGGIO/da335a80c7e111f3220e9b164f19433d_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/ed91250b51a12b297a518eb92e22d788_MD5.avif",
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001150.png",
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001547.png",
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526002521.png",
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225447.png",
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225504.png",
-    "EXTRA/Allegati/MCB/AnatMuscSchel20240316.mp3",
-    "EXTRA/Allegati/MCB/AnatMuscSchel20240316_2.mp3",
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.png",
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf",
-    "EXTRA/Allegati/MCB/ANATPALP20240314.mp3",
-    "EXTRA/Allegati/MCB/ANATPALP20240516_1.mp3",
-    "EXTRA/Allegati/MCB/ANATPALP20240516_2.mp3",
-    "EXTRA/Allegati/MCB/IMG_0120 1.jpeg",
-    "EXTRA/Allegati/MCB/MCB MRP.mp3",
-    "EXTRA/Allegati/MCB/Pasted image 20240521210508.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521211018.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521211334.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521213801.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521213927.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521214019.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240521214528.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240522180539.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240525234857.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240526205256.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528202721.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528203859.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528204941.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528212231.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528213002.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528214454.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528214457.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528214922.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528215618.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528215932.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528220101.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528220447.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528220924.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528221044.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528221339.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528221700.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528222454.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528222542.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528222658.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528223938.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528224630.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528225341.png",
-    "EXTRA/Allegati/MCB/Pasted image 20240528225403.png",
-    "EXTRA/Allegati/MCB/ValutPost20240316.mp3",
-    "EXTRA/Allegati/MCB/Zucchini 20240314.mp3",
-    "EXTRA/Allegati/MCB/Zucchini20240314.mp3",
-    "EXTRA/Allegati/Anonimo_Campi_morfici.pdf",
-    "EXTRA/Allegati/Articolazione-Sterno-clavicolare.pdf",
-    "EXTRA/Allegati/Pasted image 20230209232532.png",
-    "EXTRA/Allegati/Pasted image 20240520102119.png",
-    "EXTRA/Allegati/Pasted image 20240520102222.png",
-    "EXTRA/Allegati/Pasted image 20240520102300.png",
-    "EXTRA/Allegati/Pasted image 20240520205410.png",
-    "EXTRA/Allegati/Pasted image 20240521205924.png",
-    "EXTRA/Allegati/piedi.mp3",
-    "EXTRA/Allegati/Recording 20230228162715.webm",
+    "MASSAGGIO E ANNESSI/Allegati/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg",
+    "MASSAGGIO E ANNESSI/Allegati/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/34d5f39529963d02288ef6650d287e4c_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/88f7004304f15f35ca775a231e4637d8_MD5.png",
+    "MASSAGGIO E ANNESSI/Allegati/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/999ce45da8111faf0f293ca5c8558726_MD5.png",
+    "MASSAGGIO E ANNESSI/Allegati/cf510f7217141f9ba000175c7a7eee45_MD5.png",
+    "MASSAGGIO E ANNESSI/Allegati/d0fb92def88acf70b63d920d71fb04f1_MD5.png",
+    "MASSAGGIO E ANNESSI/Allegati/da335a80c7e111f3220e9b164f19433d_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/ed91250b51a12b297a518eb92e22d788_MD5.avif",
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526001150.png",
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526001547.png",
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526002521.png",
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526225504.png",
     "MASSAGGIO E ANNESSI/MUSCOLI/Dentato anteriore.md",
     "MASSAGGIO E ANNESSI/MUSCOLI/Dentato posteriore superiore.md",
     "MASSAGGIO E ANNESSI/MUSCOLI/Elevatore della scapola.md",
@@ -112,6 +56,7 @@
     "MASSAGGIO E ANNESSI/Biorisonanza Apparecchiature.md",
     "MASSAGGIO E ANNESSI/Chinesiterapia.md",
     "MASSAGGIO E ANNESSI/Cingolo Scapolare.md",
+    "MASSAGGIO E ANNESSI/Cisterna di Pecquet.md",
     "MASSAGGIO E ANNESSI/Disprassia.md",
     "MASSAGGIO E ANNESSI/Dolori dopo il massaggio.md",
     "MASSAGGIO E ANNESSI/Fascia.md",
@@ -120,6 +65,7 @@
     "MASSAGGIO E ANNESSI/Fibroblasti.md",
     "MASSAGGIO E ANNESSI/Fibromialgia.md",
     "MASSAGGIO E ANNESSI/Fisiatra.md",
+    "MASSAGGIO E ANNESSI/Fossa Cubitale.md",
     "MASSAGGIO E ANNESSI/Fratture Ossee.md",
     "MASSAGGIO E ANNESSI/Ginocchio.md",
     "MASSAGGIO E ANNESSI/Gotta.md",
@@ -141,6 +87,7 @@
     "MASSAGGIO E ANNESSI/Mucopolisaccaride.md",
     "MASSAGGIO E ANNESSI/Muscoli erettori spinali.md",
     "MASSAGGIO E ANNESSI/Nocicettore.md",
+    "MASSAGGIO E ANNESSI/Olecrano.md",
     "MASSAGGIO E ANNESSI/Osteopatia e fisioterapia - qual è la differenza?.md",
     "MASSAGGIO E ANNESSI/Palato molle.md",
     "MASSAGGIO E ANNESSI/Pendolo di Codman.md",
@@ -153,6 +100,8 @@
     "MASSAGGIO E ANNESSI/SCIATICA (SCIATALGIA).md",
     "MASSAGGIO E ANNESSI/Sindrome del Colon Irritabile.md",
     "MASSAGGIO E ANNESSI/Sindrome del Piriforme.md",
+    "MASSAGGIO E ANNESSI/Sistema Cardiovascolare.md",
+    "MASSAGGIO E ANNESSI/Sistema Linfatico.md",
     "MASSAGGIO E ANNESSI/Sostanza amorfa.md",
     "MASSAGGIO E ANNESSI/Sostanza fondamentale.md",
     "MASSAGGIO E ANNESSI/Spalla.md",
@@ -162,7 +111,58 @@
     "MASSAGGIO E ANNESSI/Valgismo.md",
     "MASSAGGIO E ANNESSI/Varismo.md",
     "MASSAGGIO E ANNESSI/VES.md",
+    "MCB/Allegati/AnatMuscSchel20240316.mp3",
+    "MCB/Allegati/AnatMuscSchel20240316_2.mp3",
+    "MCB/Allegati/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf",
+    "MCB/Allegati/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE 2 MEGGHY.pdf",
+    "MCB/Allegati/ANATPALP20240314.mp3",
+    "MCB/Allegati/ANATPALP20240516_1.mp3",
+    "MCB/Allegati/ANATPALP20240516_2.mp3",
+    "MCB/Allegati/IMG_0120 1.jpeg",
+    "MCB/Allegati/linfodrenaggio dr Gavazzoni.pdf",
+    "MCB/Allegati/MCB MRP.mp3",
+    "MCB/Allegati/Pasted image 20240521210508.png",
+    "MCB/Allegati/Pasted image 20240521211018.png",
+    "MCB/Allegati/Pasted image 20240521211334.png",
+    "MCB/Allegati/Pasted image 20240521213801.png",
+    "MCB/Allegati/Pasted image 20240521213927.png",
+    "MCB/Allegati/Pasted image 20240521214019.png",
+    "MCB/Allegati/Pasted image 20240521214528.png",
+    "MCB/Allegati/Pasted image 20240522180539.png",
+    "MCB/Allegati/Pasted image 20240525234857.png",
+    "MCB/Allegati/Pasted image 20240526205256.png",
+    "MCB/Allegati/Pasted image 20240528202721.png",
+    "MCB/Allegati/Pasted image 20240528203859.png",
+    "MCB/Allegati/Pasted image 20240528204941.png",
+    "MCB/Allegati/Pasted image 20240528213002.png",
+    "MCB/Allegati/Pasted image 20240528214457.png",
+    "MCB/Allegati/Pasted image 20240528214922.png",
+    "MCB/Allegati/Pasted image 20240528215618.png",
+    "MCB/Allegati/Pasted image 20240528215932.png",
+    "MCB/Allegati/Pasted image 20240528220447.png",
+    "MCB/Allegati/Pasted image 20240528220924.png",
+    "MCB/Allegati/Pasted image 20240528221339.png",
+    "MCB/Allegati/Pasted image 20240528221700.png",
+    "MCB/Allegati/Pasted image 20240528222454.png",
+    "MCB/Allegati/Pasted image 20240528222542.png",
+    "MCB/Allegati/Pasted image 20240528222658.png",
+    "MCB/Allegati/Pasted image 20240528223938.png",
+    "MCB/Allegati/Pasted image 20240528224630.png",
+    "MCB/Allegati/Pasted image 20240528225341.png",
+    "MCB/Allegati/Pasted image 20240528225403.png",
+    "MCB/Allegati/Pasted image 20240608215725.png",
+    "MCB/Allegati/Pasted image 20240608220609.png",
+    "MCB/Allegati/Pasted image 20240608221356.png",
+    "MCB/Allegati/Pasted image 20240608221601.png",
+    "MCB/Allegati/Pasted image 20240608221654.png",
+    "MCB/Allegati/Pasted image 20240608222429.png",
+    "MCB/Allegati/Pasted image 20240608222502.png",
+    "MCB/Allegati/Pasted image 20240608222601.png",
+    "MCB/Allegati/ValutPost20240316.mp3",
+    "MCB/Allegati/Zucchini 20240314.mp3",
+    "MCB/Allegati/Zucchini20240314.mp3",
     "MCB/Anatomia Palpatoria Funzionale Miofasciale.md",
+    "MCB/Linfodrenaggio.md",
     "MCB/Massaggio Riflesso Plantare.md",
     "MCB/Massaggio Svedese.md",
     "MCB/xmind-Anatomia Palpatoria Funzionale Miofasciale.md",
@@ -171,35 +171,36 @@
     "MSTR/Caso Studio 3.md",
     "MSTR/Linee Guida Casi Studi.md",
     "MSTR/Test.md",
-    "lib/media/anatpalp20240314.mp3",
-    "lib/media/anatmuscschel20240316.mp3",
-    "lib/media/anatmuscschel20240316_2.mp3",
-    "lib/media/valutpost20240316.mp3",
-    "lib/media/anatpalp20240516_1.mp3",
-    "lib/media/anatpalp20240516_2.mp3",
-    "lib/media/pasted-image-20240525234857.png",
-    "lib/media/pasted-image-20240526205256.png",
-    "lib/media/pasted-image-20240528202721.png",
-    "lib/media/pasted-image-20240528203859.png",
-    "lib/media/pasted-image-20240528204941.png",
-    "lib/media/pasted-image-20240528213002.png",
-    "lib/media/pasted-image-20240528214457.png",
-    "lib/media/pasted-image-20240528214922.png",
-    "lib/media/pasted-image-20240528215618.png",
-    "lib/media/pasted-image-20240528221339.png",
-    "lib/media/pasted-image-20240528215932.png",
-    "lib/media/pasted-image-20240528220447.png",
-    "lib/media/pasted-image-20240528220924.png",
-    "lib/media/pasted-image-20240528222542.png",
-    "lib/media/pasted-image-20240528222658.png",
-    "lib/media/pasted-image-20240528222454.png",
-    "lib/media/pasted-image-20240528223938.png",
-    "lib/media/pasted-image-20240528224630.png",
-    "lib/media/pasted-image-20240528225403.png",
-    "lib/media/pasted-image-20240528225341.png",
-    "lib/media/pasted-image-20240521210508.png",
-    "lib/media/pasted-image-20240521211334.png",
-    "lib/media/pasted-image-20240521211018.png",
+    "lib/media/pasted-image-20240608220609.png",
+    "lib/media/pasted-image-20240609225227.png",
+    "lib/media/pasted-image-20240609225340.png",
+    "lib/media/pasted-image-20240609163543.png",
+    "lib/media/pasted-image-20240609165541.png",
+    "lib/media/pasted-image-20240609170112.png",
+    "lib/media/pasted-image-20240609171712.png",
+    "lib/media/pasted-image-20240609212003.png",
+    "lib/media/pasted-image-20240609212222.png",
+    "lib/media/pasted-image-20240609213958.png",
+    "lib/media/pasted-image-20240609213018.png",
+    "lib/media/pasted-image-20240609213237.png",
+    "lib/media/pasted-image-20240609213407.png",
+    "lib/media/pasted-image-20240609214416.png",
+    "lib/media/pasted-image-20240609215010.png",
+    "lib/media/pasted-image-20240609215053.png",
+    "lib/media/pasted-image-20240609215418.png",
+    "lib/media/pasted-image-20240609215610.png",
+    "lib/media/pasted-image-20240609215855.png",
+    "lib/media/pasted-image-20240609220529.png",
+    "lib/media/pasted-image-20240609220918.png",
+    "lib/media/pasted-image-20240609221418.png",
+    "lib/media/pasted-image-20240609222538.png",
+    "lib/media/pasted-image-20240609223157.png",
+    "lib/media/pasted-image-20240609223622.png",
+    "lib/media/pasted-image-20240609224239.png",
+    "lib/media/pasted-image-20240609224522.png",
+    "lib/media/pasted-image-20240609224824.png",
+    "lib/media/pasted-image-20240609225934.png",
+    "lib/media/pasted-image-20240609230708.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -215,6 +216,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -248,6 +250,35 @@
     "lib/media/pasted-image-20240520102300.png",
     "lib/media/pasted-image-20240528221700.png",
     "lib/media/pasted-image-20240526225504.png",
+    "lib/media/anatpalp20240314.mp3",
+    "lib/media/anatmuscschel20240316.mp3",
+    "lib/media/anatmuscschel20240316_2.mp3",
+    "lib/media/valutpost20240316.mp3",
+    "lib/media/anatpalp20240516_1.mp3",
+    "lib/media/anatpalp20240516_2.mp3",
+    "lib/media/pasted-image-20240525234857.png",
+    "lib/media/pasted-image-20240526205256.png",
+    "lib/media/pasted-image-20240528202721.png",
+    "lib/media/pasted-image-20240528203859.png",
+    "lib/media/pasted-image-20240528204941.png",
+    "lib/media/pasted-image-20240528213002.png",
+    "lib/media/pasted-image-20240528214457.png",
+    "lib/media/pasted-image-20240528214922.png",
+    "lib/media/pasted-image-20240528215618.png",
+    "lib/media/pasted-image-20240528221339.png",
+    "lib/media/pasted-image-20240528215932.png",
+    "lib/media/pasted-image-20240528220447.png",
+    "lib/media/pasted-image-20240528220924.png",
+    "lib/media/pasted-image-20240528222542.png",
+    "lib/media/pasted-image-20240528222658.png",
+    "lib/media/pasted-image-20240528222454.png",
+    "lib/media/pasted-image-20240528223938.png",
+    "lib/media/pasted-image-20240528224630.png",
+    "lib/media/pasted-image-20240528225403.png",
+    "lib/media/pasted-image-20240528225341.png",
+    "lib/media/pasted-image-20240521210508.png",
+    "lib/media/pasted-image-20240521211334.png",
+    "lib/media/pasted-image-20240521211018.png",
     "lib/media/img_0120-1.jpeg",
     "lib/media/pasted-image-20240521213801.png",
     "lib/media/pasted-image-20240521213927.png",
@@ -271,6 +302,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -289,181 +321,181 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 67863,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 66116,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 6882,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 7326,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 157722,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 2984,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 209702,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 218174,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 463,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 639,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1717440140886,
+      "modifiedTime": 1718018514451,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -1064,8 +1096,8 @@
       "dependencies": []
     },
     "MASSAGGIO E ANNESSI/Spalla.md": {
-      "modifiedTime": 1717244816711,
-      "sourceSize": 46551,
+      "modifiedTime": 1718018514451,
+      "sourceSize": 48103,
       "exportedPath": "massaggio-e-annessi/spalla.html",
       "dependencies": []
     },
@@ -1516,438 +1548,6 @@
       "exportedPath": "lib/media/pasted-image-20240522180539.png",
       "dependencies": []
     },
-    "EXTRA/Allegati/MASSAGGIO/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 7367,
-      "exportedPath": "extra/allegati/massaggio/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 14803,
-      "exportedPath": "extra/allegati/massaggio/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 243895,
-      "exportedPath": "extra/allegati/massaggio/9eac2afc730d9371ad851ca4575b90e9_md5.jpg",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 4273,
-      "exportedPath": "extra/allegati/massaggio/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/34d5f39529963d02288ef6650d287e4c_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 5933,
-      "exportedPath": "extra/allegati/massaggio/34d5f39529963d02288ef6650d287e4c_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/88f7004304f15f35ca775a231e4637d8_MD5.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 100846,
-      "exportedPath": "extra/allegati/massaggio/88f7004304f15f35ca775a231e4637d8_md5.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 8732,
-      "exportedPath": "extra/allegati/massaggio/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/999ce45da8111faf0f293ca5c8558726_MD5.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 162259,
-      "exportedPath": "extra/allegati/massaggio/999ce45da8111faf0f293ca5c8558726_md5.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/cf510f7217141f9ba000175c7a7eee45_MD5.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 96893,
-      "exportedPath": "extra/allegati/massaggio/cf510f7217141f9ba000175c7a7eee45_md5.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/d0fb92def88acf70b63d920d71fb04f1_MD5.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 36249,
-      "exportedPath": "extra/allegati/massaggio/d0fb92def88acf70b63d920d71fb04f1_md5.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/da335a80c7e111f3220e9b164f19433d_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 53156,
-      "exportedPath": "extra/allegati/massaggio/da335a80c7e111f3220e9b164f19433d_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/ed91250b51a12b297a518eb92e22d788_MD5.avif": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 25789,
-      "exportedPath": "extra/allegati/massaggio/ed91250b51a12b297a518eb92e22d788_md5.avif",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001150.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 325149,
-      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526001150.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526001547.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 733330,
-      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526001547.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526002521.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 1012627,
-      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526002521.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225447.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 30296,
-      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526225447.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MASSAGGIO/Pasted image 20240526225504.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 150671,
-      "exportedPath": "extra/allegati/massaggio/pasted-image-20240526225504.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/AnatMuscSchel20240316.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 31601568,
-      "exportedPath": "extra/allegati/mcb/anatmuscschel20240316.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/AnatMuscSchel20240316_2.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 8920416,
-      "exportedPath": "extra/allegati/mcb/anatmuscschel20240316_2.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 959170,
-      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 554315,
-      "exportedPath": "extra/allegati/mcb/anatomia-palpatoria-funzionale-miofasciale.pdf",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATPALP20240314.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 43323998,
-      "exportedPath": "extra/allegati/mcb/anatpalp20240314.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATPALP20240516_1.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 24053401,
-      "exportedPath": "extra/allegati/mcb/anatpalp20240516_1.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ANATPALP20240516_2.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 14782489,
-      "exportedPath": "extra/allegati/mcb/anatpalp20240516_2.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/IMG_0120 1.jpeg": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 24219,
-      "exportedPath": "extra/allegati/mcb/img_0120-1.jpeg",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/MCB MRP.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 57844176,
-      "exportedPath": "extra/allegati/mcb/mcb-mrp.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521210508.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 642561,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521210508.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521211018.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 864790,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211018.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521211334.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 651785,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521211334.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521213801.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 569037,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213801.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521213927.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 328512,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521213927.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521214019.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 448884,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214019.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240521214528.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 235146,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240521214528.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240522180539.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 2405033,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240522180539.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240525234857.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 400515,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240525234857.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240526205256.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 68080,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240526205256.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528202721.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 1142619,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528202721.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528203859.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 486668,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528203859.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528204941.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 660201,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528204941.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528212231.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 278836,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528212231.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528213002.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 330942,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528213002.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214454.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 538592,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214454.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214457.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 538592,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214457.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528214922.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 414574,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528214922.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528215618.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 731173,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215618.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528215932.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 295984,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528215932.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220101.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 284393,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220101.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220447.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 377424,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220447.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528220924.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 267086,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528220924.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221044.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 209358,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221044.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221339.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 501627,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221339.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528221700.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 353661,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528221700.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222454.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 1128242,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222454.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222542.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 707979,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222542.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528222658.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 265445,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528222658.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528223938.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 435560,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528223938.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528224630.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 666589,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528224630.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528225341.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 207918,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225341.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Pasted image 20240528225403.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 885348,
-      "exportedPath": "extra/allegati/mcb/pasted-image-20240528225403.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/ValutPost20240316.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 18218760,
-      "exportedPath": "extra/allegati/mcb/valutpost20240316.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Zucchini 20240314.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 43323998,
-      "exportedPath": "extra/allegati/mcb/zucchini-20240314.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/MCB/Zucchini20240314.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 43323998,
-      "exportedPath": "extra/allegati/mcb/zucchini20240314.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Anonimo_Campi_morfici.pdf": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 122866,
-      "exportedPath": "extra/allegati/anonimo_campi_morfici.pdf",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Articolazione-Sterno-clavicolare.pdf": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 114895,
-      "exportedPath": "extra/allegati/articolazione-sterno-clavicolare.pdf",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20230209232532.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 814080,
-      "exportedPath": "extra/allegati/pasted-image-20230209232532.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20240520102119.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 71920,
-      "exportedPath": "extra/allegati/pasted-image-20240520102119.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20240520102222.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 184921,
-      "exportedPath": "extra/allegati/pasted-image-20240520102222.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20240520102300.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 80174,
-      "exportedPath": "extra/allegati/pasted-image-20240520102300.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20240520205410.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 126997,
-      "exportedPath": "extra/allegati/pasted-image-20240520205410.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Pasted image 20240521205924.png": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 216926,
-      "exportedPath": "extra/allegati/pasted-image-20240521205924.png",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/piedi.mp3": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 5469473,
-      "exportedPath": "extra/allegati/piedi.mp3",
-      "dependencies": []
-    },
-    "EXTRA/Allegati/Recording 20230228162715.webm": {
-      "modifiedTime": 1717440140886,
-      "sourceSize": 724995,
-      "exportedPath": "extra/allegati/recording-20230228162715.webm",
-      "dependencies": []
-    },
     "MASSAGGIO E ANNESSI/Astenia.md": {
       "modifiedTime": 1717440140886,
       "sourceSize": 3727,
@@ -1976,6 +1576,714 @@
       "modifiedTime": 1717440140886,
       "sourceSize": 24997,
       "exportedPath": "massaggio-e-annessi/sindrome-del-colon-irritabile.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/0bb262c5ced3fd88b5d983af6733a55f_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 7367,
+      "exportedPath": "massaggio-e-annessi/allegati/0bb262c5ced3fd88b5d983af6733a55f_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/1f3e9a2747b3f748d48abb44b7d2c18b_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 14803,
+      "exportedPath": "massaggio-e-annessi/allegati/1f3e9a2747b3f748d48abb44b7d2c18b_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/9eac2afc730d9371ad851ca4575b90e9_MD5.jpg": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 243895,
+      "exportedPath": "massaggio-e-annessi/allegati/9eac2afc730d9371ad851ca4575b90e9_md5.jpg",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/20d8ac0cf4079caeb48566ffe878f20c_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 4273,
+      "exportedPath": "massaggio-e-annessi/allegati/20d8ac0cf4079caeb48566ffe878f20c_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/34d5f39529963d02288ef6650d287e4c_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 5933,
+      "exportedPath": "massaggio-e-annessi/allegati/34d5f39529963d02288ef6650d287e4c_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/88f7004304f15f35ca775a231e4637d8_MD5.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 100846,
+      "exportedPath": "massaggio-e-annessi/allegati/88f7004304f15f35ca775a231e4637d8_md5.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/979b7532d2b63e10bb644bd9d3591a9c_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 8732,
+      "exportedPath": "massaggio-e-annessi/allegati/979b7532d2b63e10bb644bd9d3591a9c_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/999ce45da8111faf0f293ca5c8558726_MD5.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 162259,
+      "exportedPath": "massaggio-e-annessi/allegati/999ce45da8111faf0f293ca5c8558726_md5.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/cf510f7217141f9ba000175c7a7eee45_MD5.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 96893,
+      "exportedPath": "massaggio-e-annessi/allegati/cf510f7217141f9ba000175c7a7eee45_md5.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/d0fb92def88acf70b63d920d71fb04f1_MD5.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 36249,
+      "exportedPath": "massaggio-e-annessi/allegati/d0fb92def88acf70b63d920d71fb04f1_md5.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/da335a80c7e111f3220e9b164f19433d_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 53156,
+      "exportedPath": "massaggio-e-annessi/allegati/da335a80c7e111f3220e9b164f19433d_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/ed91250b51a12b297a518eb92e22d788_MD5.avif": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 25789,
+      "exportedPath": "massaggio-e-annessi/allegati/ed91250b51a12b297a518eb92e22d788_md5.avif",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526001150.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 325149,
+      "exportedPath": "massaggio-e-annessi/allegati/pasted-image-20240526001150.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526001547.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 733330,
+      "exportedPath": "massaggio-e-annessi/allegati/pasted-image-20240526001547.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526002521.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1012627,
+      "exportedPath": "massaggio-e-annessi/allegati/pasted-image-20240526002521.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Allegati/Pasted image 20240526225504.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 150671,
+      "exportedPath": "massaggio-e-annessi/allegati/pasted-image-20240526225504.png",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Cisterna di Pecquet.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 2123,
+      "exportedPath": "massaggio-e-annessi/cisterna-di-pecquet.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240608220609.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Fossa Cubitale.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 6571,
+      "exportedPath": "massaggio-e-annessi/fossa-cubitale.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240609225227.png",
+        "lib/media/pasted-image-20240609225340.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Olecrano.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 20667,
+      "exportedPath": "massaggio-e-annessi/olecrano.html",
+      "dependencies": []
+    },
+    "MASSAGGIO E ANNESSI/Sistema Cardiovascolare.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 12509,
+      "exportedPath": "massaggio-e-annessi/sistema-cardiovascolare.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240609163543.png"
+      ]
+    },
+    "MASSAGGIO E ANNESSI/Sistema Linfatico.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 10228,
+      "exportedPath": "massaggio-e-annessi/sistema-linfatico.html",
+      "dependencies": []
+    },
+    "MCB/Allegati/AnatMuscSchel20240316.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 31601568,
+      "exportedPath": "mcb/allegati/anatmuscschel20240316.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/AnatMuscSchel20240316_2.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 8920416,
+      "exportedPath": "mcb/allegati/anatmuscschel20240316_2.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE.pdf": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 554315,
+      "exportedPath": "mcb/allegati/anatomia-palpatoria-funzionale-miofasciale.pdf",
+      "dependencies": []
+    },
+    "MCB/Allegati/ANATOMIA PALPATORIA FUNZIONALE MIOFASCIALE 2 MEGGHY.pdf": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 11352017,
+      "exportedPath": "mcb/allegati/anatomia-palpatoria-funzionale-miofasciale-2-megghy.pdf",
+      "dependencies": []
+    },
+    "MCB/Allegati/ANATPALP20240314.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 43323998,
+      "exportedPath": "mcb/allegati/anatpalp20240314.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/ANATPALP20240516_1.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 24053401,
+      "exportedPath": "mcb/allegati/anatpalp20240516_1.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/ANATPALP20240516_2.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 14782489,
+      "exportedPath": "mcb/allegati/anatpalp20240516_2.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/IMG_0120 1.jpeg": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 24219,
+      "exportedPath": "mcb/allegati/img_0120-1.jpeg",
+      "dependencies": []
+    },
+    "MCB/Allegati/linfodrenaggio dr Gavazzoni.pdf": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1470664,
+      "exportedPath": "mcb/allegati/linfodrenaggio-dr-gavazzoni.pdf",
+      "dependencies": []
+    },
+    "MCB/Allegati/MCB MRP.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 57844176,
+      "exportedPath": "mcb/allegati/mcb-mrp.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521210508.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 642561,
+      "exportedPath": "mcb/allegati/pasted-image-20240521210508.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521211018.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 864790,
+      "exportedPath": "mcb/allegati/pasted-image-20240521211018.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521211334.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 651785,
+      "exportedPath": "mcb/allegati/pasted-image-20240521211334.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521213801.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 569037,
+      "exportedPath": "mcb/allegati/pasted-image-20240521213801.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521213927.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 328512,
+      "exportedPath": "mcb/allegati/pasted-image-20240521213927.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521214019.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 448884,
+      "exportedPath": "mcb/allegati/pasted-image-20240521214019.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240521214528.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 235146,
+      "exportedPath": "mcb/allegati/pasted-image-20240521214528.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240522180539.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 2405033,
+      "exportedPath": "mcb/allegati/pasted-image-20240522180539.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240525234857.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 400515,
+      "exportedPath": "mcb/allegati/pasted-image-20240525234857.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240526205256.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 68080,
+      "exportedPath": "mcb/allegati/pasted-image-20240526205256.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528202721.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1142619,
+      "exportedPath": "mcb/allegati/pasted-image-20240528202721.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528203859.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 486668,
+      "exportedPath": "mcb/allegati/pasted-image-20240528203859.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528204941.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 660201,
+      "exportedPath": "mcb/allegati/pasted-image-20240528204941.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528213002.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 330942,
+      "exportedPath": "mcb/allegati/pasted-image-20240528213002.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528214457.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 538592,
+      "exportedPath": "mcb/allegati/pasted-image-20240528214457.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528214922.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 414574,
+      "exportedPath": "mcb/allegati/pasted-image-20240528214922.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528215618.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 731173,
+      "exportedPath": "mcb/allegati/pasted-image-20240528215618.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528215932.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 295984,
+      "exportedPath": "mcb/allegati/pasted-image-20240528215932.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528220447.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 377424,
+      "exportedPath": "mcb/allegati/pasted-image-20240528220447.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528220924.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 267086,
+      "exportedPath": "mcb/allegati/pasted-image-20240528220924.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528221339.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 501627,
+      "exportedPath": "mcb/allegati/pasted-image-20240528221339.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528221700.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 353661,
+      "exportedPath": "mcb/allegati/pasted-image-20240528221700.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528222454.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1128242,
+      "exportedPath": "mcb/allegati/pasted-image-20240528222454.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528222542.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 707979,
+      "exportedPath": "mcb/allegati/pasted-image-20240528222542.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528222658.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 265445,
+      "exportedPath": "mcb/allegati/pasted-image-20240528222658.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528223938.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 435560,
+      "exportedPath": "mcb/allegati/pasted-image-20240528223938.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528224630.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 666589,
+      "exportedPath": "mcb/allegati/pasted-image-20240528224630.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528225341.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 207918,
+      "exportedPath": "mcb/allegati/pasted-image-20240528225341.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240528225403.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 885348,
+      "exportedPath": "mcb/allegati/pasted-image-20240528225403.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608215725.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 2188268,
+      "exportedPath": "mcb/allegati/pasted-image-20240608215725.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608220609.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 265889,
+      "exportedPath": "mcb/allegati/pasted-image-20240608220609.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608221356.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 432834,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221356.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608221601.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 556237,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221601.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608221654.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 527204,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221654.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608222429.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 545481,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222429.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608222502.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 487043,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222502.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/Pasted image 20240608222601.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 418788,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222601.png",
+      "dependencies": []
+    },
+    "MCB/Allegati/ValutPost20240316.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 18218760,
+      "exportedPath": "mcb/allegati/valutpost20240316.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/Zucchini 20240314.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 43323998,
+      "exportedPath": "mcb/allegati/zucchini-20240314.mp3",
+      "dependencies": []
+    },
+    "MCB/Allegati/Zucchini20240314.mp3": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 43323998,
+      "exportedPath": "mcb/allegati/zucchini20240314.mp3",
+      "dependencies": []
+    },
+    "MCB/Linfodrenaggio.md": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 12993,
+      "exportedPath": "mcb/linfodrenaggio.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240609165541.png",
+        "lib/media/pasted-image-20240609170112.png",
+        "mcb/allegati/pasted-image-20240608215725.png",
+        "mcb/allegati/pasted-image-20240608221356.png",
+        "mcb/allegati/pasted-image-20240608221601.png",
+        "mcb/allegati/pasted-image-20240608221654.png",
+        "mcb/allegati/pasted-image-20240608222429.png",
+        "mcb/allegati/pasted-image-20240608222502.png",
+        "mcb/allegati/pasted-image-20240608222601.png",
+        "lib/media/pasted-image-20240609171712.png",
+        "lib/media/pasted-image-20240609212003.png",
+        "lib/media/pasted-image-20240609212222.png",
+        "lib/media/pasted-image-20240609213958.png",
+        "lib/media/pasted-image-20240609213018.png",
+        "lib/media/pasted-image-20240609213237.png",
+        "lib/media/pasted-image-20240609213407.png",
+        "lib/media/pasted-image-20240609214416.png",
+        "lib/media/pasted-image-20240609215010.png",
+        "lib/media/pasted-image-20240609215053.png",
+        "lib/media/pasted-image-20240609215418.png",
+        "lib/media/pasted-image-20240609215610.png",
+        "lib/media/pasted-image-20240609215855.png",
+        "lib/media/pasted-image-20240609220529.png",
+        "lib/media/pasted-image-20240609220918.png",
+        "lib/media/pasted-image-20240609221418.png",
+        "lib/media/pasted-image-20240609222538.png",
+        "lib/media/pasted-image-20240609223157.png",
+        "lib/media/pasted-image-20240609223622.png",
+        "lib/media/pasted-image-20240609224239.png",
+        "lib/media/pasted-image-20240609224522.png",
+        "lib/media/pasted-image-20240609224824.png",
+        "lib/media/pasted-image-20240609225934.png",
+        "lib/media/pasted-image-20240609230708.png",
+        "mcb/allegati/linfodrenaggio-dr-gavazzoni.pdf"
+      ]
+    },
+    "lib/media/pasted-image-20240608220609.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 265889,
+      "exportedPath": "lib/media/pasted-image-20240608220609.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609225227.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 180207,
+      "exportedPath": "lib/media/pasted-image-20240609225227.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609225340.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 304686,
+      "exportedPath": "lib/media/pasted-image-20240609225340.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609163543.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 99055,
+      "exportedPath": "lib/media/pasted-image-20240609163543.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609165541.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 2330461,
+      "exportedPath": "lib/media/pasted-image-20240609165541.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609170112.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1144534,
+      "exportedPath": "lib/media/pasted-image-20240609170112.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608215725.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 2188268,
+      "exportedPath": "mcb/allegati/pasted-image-20240608215725.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608221356.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 432834,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221356.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608221601.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 556237,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221601.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608221654.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 527204,
+      "exportedPath": "mcb/allegati/pasted-image-20240608221654.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608222429.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 545481,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222429.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608222502.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 487043,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222502.png",
+      "dependencies": []
+    },
+    "mcb/allegati/pasted-image-20240608222601.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 418788,
+      "exportedPath": "mcb/allegati/pasted-image-20240608222601.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609171712.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1156388,
+      "exportedPath": "lib/media/pasted-image-20240609171712.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609212003.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 606054,
+      "exportedPath": "lib/media/pasted-image-20240609212003.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609212222.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 677428,
+      "exportedPath": "lib/media/pasted-image-20240609212222.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609213958.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 62998,
+      "exportedPath": "lib/media/pasted-image-20240609213958.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609213018.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 340602,
+      "exportedPath": "lib/media/pasted-image-20240609213018.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609213237.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 226419,
+      "exportedPath": "lib/media/pasted-image-20240609213237.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609213407.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 564022,
+      "exportedPath": "lib/media/pasted-image-20240609213407.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609214416.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 666089,
+      "exportedPath": "lib/media/pasted-image-20240609214416.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609215010.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 270614,
+      "exportedPath": "lib/media/pasted-image-20240609215010.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609215053.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 667932,
+      "exportedPath": "lib/media/pasted-image-20240609215053.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609215418.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 756815,
+      "exportedPath": "lib/media/pasted-image-20240609215418.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609215610.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 312324,
+      "exportedPath": "lib/media/pasted-image-20240609215610.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609215855.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 432490,
+      "exportedPath": "lib/media/pasted-image-20240609215855.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609220529.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 142532,
+      "exportedPath": "lib/media/pasted-image-20240609220529.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609220918.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 236964,
+      "exportedPath": "lib/media/pasted-image-20240609220918.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609221418.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 368267,
+      "exportedPath": "lib/media/pasted-image-20240609221418.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609222538.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 452646,
+      "exportedPath": "lib/media/pasted-image-20240609222538.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609223157.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 450295,
+      "exportedPath": "lib/media/pasted-image-20240609223157.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609223622.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 529751,
+      "exportedPath": "lib/media/pasted-image-20240609223622.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609224239.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 828245,
+      "exportedPath": "lib/media/pasted-image-20240609224239.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609224522.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 620622,
+      "exportedPath": "lib/media/pasted-image-20240609224522.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609224824.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 263748,
+      "exportedPath": "lib/media/pasted-image-20240609224824.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609225934.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 591885,
+      "exportedPath": "lib/media/pasted-image-20240609225934.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240609230708.png": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 600370,
+      "exportedPath": "lib/media/pasted-image-20240609230708.png",
+      "dependencies": []
+    },
+    "mcb/allegati/linfodrenaggio-dr-gavazzoni.pdf": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 1470664,
+      "exportedPath": "mcb/allegati/linfodrenaggio-dr-gavazzoni.pdf",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1718018514451,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     }
   }
